@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- a70q -->
+    <project path="device/samsung/a70q" name="a70q-lineage/android_device_samsung_a70q" remote="github" revision="lineage-21" />
+    <project path="device/samsung/a70s" name="a70q-lineage/android_device_samsung_a70s" remote="github" revision="lineage-21" />
+    <project path="device/samsung/sm6150-common" name="a70q-lineage/android_device_samsung_sm6150-common" remote="github" revision="lineage-21" />
+    <project path="kernel/samsung/sm6150" name="a70q-lineage/android_kernel_samsung_sm6150" remote="github" revision="lineage-21" />
+
+    <!-- hw/samsung -->
+    <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-21" />
+</manifest>
